@@ -1,9 +1,9 @@
 footprints-proofing
 -------------------
 
-the goal of this project is to automate the export of batches of questionable
-origin onto a gridded project, add silk descriptions for the parts, and to print
-out paper copies for size & fit of the footprints.  
+the goal of this project is to automate the export of batches or libraries of
+footprints of questionable origin onto a gridded project, add silk descriptions
+for the parts, and to print out paper copies for size & fit of the footprints.  
 
 first commits will be doing the process manually in pcb.  
 
